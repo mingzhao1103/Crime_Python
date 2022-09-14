@@ -22,6 +22,6 @@
   - SARIMAX
 - Conclusion  
 
-#### HTML Preview
+#### Report Preview
 
 https://github.com/mingzhao1103/Python_Crime/blob/main/notebook/crime.ipynb
