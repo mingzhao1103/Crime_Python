@@ -5,7 +5,7 @@
 - A study on incidents of larceny-theft using Exploratory Data Analysis and Time Series Analysis
  
 #### Outline
-
+ 
 - Data Preprocessing
   - Crime data
   - Unemployment data
